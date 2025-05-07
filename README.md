@@ -224,13 +224,11 @@ artifacts and supports local artists with an exhibition space.
 
 ```
 ## OUTPUT
-
 ![alt text](map.png)
 ![alt text](1.html.png)
 ![alt text](2.html.png)
 ![alt text](3.html.png)
 ![alt text](4.html.png)
 ![alt text](5.html.png)
-
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
